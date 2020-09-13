@@ -1,0 +1,2 @@
+PATH="${PATH}:${HOME}/workspace/config/Auto-CAS-Login-ChromeExtension/kns"
+PATH="${PATH}:${HOME}/workspace/bin"
